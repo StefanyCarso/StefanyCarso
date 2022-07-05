@@ -1,4 +1,4 @@
-## Ooie! Eu sou a Stefany cardoso
+## Olá! Eu sou a Stefany cardoso
 
 <div align="center">
   <a href="https://github.com/StefanyCarso">
